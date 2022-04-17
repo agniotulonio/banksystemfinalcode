@@ -33,11 +33,6 @@
 			<label for="" class="is-size-5 has-text-primary">Username</label><br>
 			<input type="text" class="input is-outlined column is-5 " name="username"><br>
 
-			<label for=""  class="is-size-5 has-text-primary">Emaill</label><br>
-			<input type="text" class="input is-outlined  column is-5"name="emaill"><br>
-
-
-
 			<label for=""  class="is-size-5 has-text-primary">Make a 4 digit pin </label><br>
 			<input type="text" class="input is-outlined   column is-5" name="pin"><br>
 
